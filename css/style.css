@@ -1,0 +1,117 @@
+ @import url('https://fonts.googleapis.com/css2? família = Chilanka & display = trocar ');
+ @import url('https://fonts.googleapis.com/css2? família = Montserrat + Alternativas: ital, peso @ 0,100; 0,200; 0,300; 0,400; 0,500; 0,600; 0,700; 0,800; 0,900; 1,100; 1,200; 1,300; 1,400; 1,500; 1,600; 1,700; 1,800; 1,900 & display = troca ');
+
+html,body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.banner { 
+  display: grid;
+  padding: 50px 0px 50px 0px;
+
+}
+
+.fotoperfil {
+  margin: 50px auto;
+  margin: auto;
+}
+
+.txtenunc{
+  margin: 15px 0px 10px 0px;
+  text-align: center;
+  color: #79a4ad;
+
+}
+
+.nomeenunc {
+  font-family:'Chilanka', cursiva;
+  font-size: 26px;
+}
+
+.profissaoenunc {
+  font-family: 'Montserrat Alternates', sans-serif;  
+  font-size: 16px;
+}
+
+.icon{
+  margin: 0px 0px 18px 0px;
+  text-align: center;
+}
+
+a {
+  background: #79a4ad;
+  color: #d8d9d5;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+  border: none;
+  font-size: 14px;
+  border-radius: 20px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-decoration:none;  
+}
+
+a:hover{
+background:#d2b82b;
+}
+
+button:hover {
+  background:#d2b82b;
+}
+
+.cv{
+  text-align: center;
+  background-color: #D9D9D6;
+  padding: 50px 0px 50px 0px;
+}
+
+.uayna{
+  font-family:'Chilanka', cursiva;
+  font-size: 24px;
+  color: #79a4ad;
+}
+
+.infouay {
+  font-family: 'Montserrat Alternates', sans-serif;  
+  font-size: 16px;
+}
+
+.sobreuay{
+  font-family: 'Montserrat Alternates', sans-serif;  
+  font-size: 14px;
+}
+
+.enunccurso{
+  font-family:'Chilanka', cursiva;
+  font-size: 18px;
+  color: #79a4ad;
+}
+
+.enuncclivre{
+  font-family:'Chilanka', cursiva;
+  font-size: 18px;
+  color: #79a4ad;
+}
+
+.enunchab{
+  font-family:'Chilanka', cursiva;
+  font-size: 18px;
+  color: #79a4ad;
+  }
+
+.infocurso{
+  font-family: 'Montserrat Alternates', sans-serif;  
+  font-size: 14px; 
+}
+
+.infocclivre{
+  font-family: 'Montserrat Alternates', sans-serif;  
+  font-size: 14px;
+}
+
+  .txthab{
+    font-family: 'Montserrat Alternates', sans-serif;  
+    font-size: 14px;
+  }
+  }
